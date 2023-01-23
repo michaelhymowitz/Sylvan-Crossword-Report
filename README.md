@@ -4,4 +4,6 @@ In these reports, I analyze my college friends and mine daily New York Times Min
 
 Report 2 is probably the best report in terms of inclusion of commentary, as while Report 3 includes the same data visualizations, these results are far less interpreted, epecially per-person.
 
+Note that in terms of code, much of what is contained in each `Report *` subfolder is largely the same, although minor code additions are made for each new report iteration due to evolving needs and ideas.
+
 These reports are generated with RMarkdown, specically the `sylvan_crossword_report_*.Rmd` file in each `Report *` subfolder.
